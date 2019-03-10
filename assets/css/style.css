@@ -1,0 +1,60 @@
+.gryffindor {
+  background: repeating-linear-gradient(
+  90deg,
+  #d3a625,
+  #eeba30 70px,
+  #ae0001 70px,
+  #740001 140px);
+}
+
+.hufflepuff {
+  background: repeating-linear-gradient(
+  90deg,
+  #ecb939,
+  #f0c75e 70px,
+  #726255 70px,
+  #372e29 140px);
+}
+
+.ravenclaw {
+  background: repeating-linear-gradient(
+  90deg,
+  #353f65,
+  #424e78 70px,
+  #bdab8f 70px,
+  #b2b0ac 140px);
+}
+
+.slytherin {
+  background: repeating-linear-gradient(
+  90deg,
+  #284d16,
+  #1d3c0e 70px,
+  #42473f 70px,
+  #232721 140px);
+}
+
+.default {
+  background: repeating-linear-gradient(
+  90deg,
+  #b20003,
+  #dfb000 70px,
+  #044d0f 70px,
+  #004485 140px);
+}
+
+body {
+  margin: 0 auto;
+
+}
+
+#crest {
+  padding-top: 70px;
+  opacity: 1;
+}
+
+.header-content {
+  background: white;
+  opacity: 0.9;
+  border-radius: 25px;
+}
